@@ -1,9 +1,9 @@
   
-## I'm a Husband, Dog Dad, Aspiring Developer, and Supply Chain Manager!!
+## I'm a Husband, Dog Dad, Aspiring Developer, and Supply Chain Engineer Consultant!!
 
 - 🌱 I’m currently learning all things Python 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn Python enough to land a Data Analysis job
+- 🥅 2023 Goals: Learn Python enough to aid in my data analysis in current role, become very well versed in Jupyter Notebook
 - ⚡ Fun fact: I have two dogs; Arlo (Doberman) and Odi (Mini Dachshund)
 
 ### Connect with me:
