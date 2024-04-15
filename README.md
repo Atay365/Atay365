@@ -1,9 +1,9 @@
   
 ## I'm a Husband, Dog Dad, Aspiring Developer, and Supply Chain Engineer Consultant!!
 
-- 🌱 I’m currently learning all things Python 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn Python enough to aid in my data analysis in current role, become very well versed in Jupyter Notebook
+- 🌱 I’m currently learning all things Python and Javascript - Brainstation Coding Bootcamp Apr 24'
+- 👯 I’m looking to collaborate with others on the same career change journey
+- 🥅 2024 Goals: Learn Javascript and Python enough that I am able to complete a career switch into Tech!
 - ⚡ Fun fact: I have two dogs; Arlo (Doberman) and Odi (Mini Dachshund)
 
 ### Connect with me:
