@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Austin Taylor</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=4000&pause=1000&color=9E1B32&width=435&lines=Hi%2C+my+name+is+Austin+Taylor!)](https://git.io/typing-svg)
 <h3 align="center">Ex-Supply Chain Engineer turned Full-Stack Developer!</h3>
 
 - 🔭 I’m currently working on [Pickleball Pal](https://pickleball-pal.netlify.app/)
