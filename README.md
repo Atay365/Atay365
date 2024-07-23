@@ -1,5 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=4000&pause=1000&color=9E1B32&width=435&lines=Hi%2C+my+name+is+Austin+Taylor!)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=4000&pause=1000&color=9E1B32&width=435&lines=Hi%2C+my+name+is+Austin+Taylor!" alt="Typing SVG" />
+  </a>
+</div>
+
 <h3 align="center">Ex-Supply Chain Engineer turned Full-Stack Developer!</h3>
+<p align="center">Hi, I'm Austin Taylor! After a successful career as a Supply Chain Engineer, I discovered my passion for coding and transitioned into full stack development. Now, I'm combining my analytical expertise and technical skills to create innovative software solutions.
+
+</p>
+<hr>
 
 - 🔭 I’m currently working on [Pickleball Pal](https://pickleball-pal.netlify.app/)
 
