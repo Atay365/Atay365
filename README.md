@@ -4,15 +4,15 @@
   </a>
 </div>
 
-<h3 align="center">Ex-Supply Chain Engineer turned Full-Stack Developer!</h3>
-<p align="center">Hi, I'm Austin Taylor! After a successful career as a Supply Chain Engineer, I discovered my passion for coding and transitioned into full stack development. Now, I'm combining my analytical expertise and technical skills to create innovative software solutions.
+<h3 align="center">Supply Chain Engineer and Full-Stack Developer!</h3>
+<p align="center">Hi, I'm Austin Taylor! During a successful career as a Supply Chain Engineer, I discovered my passion for coding and dedicated time into full stack development. Now, I'm combining my analytical expertise and technical skills to create innovative software solutions.
 
 </p>
 <hr>
 
 - 🔭 I’m currently working on [Pickleball Pal](https://pickleball-pal.netlify.app/)
 
-- 🌱 I’m currently learning **Next.js, Three.js, and Tailwind**
+- 🌱 I’m currently learning **TypeScript, and Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Atay365](https://github.com/Atay365)
 
