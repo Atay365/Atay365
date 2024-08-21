@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **atay1109@gmail.com**
 
-- 📄 Learn more about my career at [https://www.linkedin.com/in/derrick-a-taylor/](https://www.linkedin.com/in/derrick-a-taylor/)
+- 📄 Learn more about my career at [my Portfolio](https://derrick-a-taylor.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
