@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Atay365](https://github.com/Atay365)
 
-- 📫 How to reach me **atay1109@gmail.com**
+- 📫 How to reach me **derrickaustint@gmail.com**
 
 - 📄 Learn more about my career at [my Portfolio](https://derrick-a-taylor.netlify.app/)
 
