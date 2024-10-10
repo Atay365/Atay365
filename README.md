@@ -10,7 +10,7 @@
 </p>
 <hr>
 
-- 🔭 I’m currently working on [Pickleball Pal](https://pickleball-pal.netlify.app/)
+- 🔭 I’m currently working on a Web Scrapping application
 
 - 🌱 I’m currently learning **TypeScript, and Tailwind**
 
