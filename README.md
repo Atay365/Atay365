@@ -10,7 +10,7 @@
 </p>
 <hr>
 
-- 🔭 I’m currently working on a Web Scrapping application
+- 🔭 I’m currently working on a Stock Prediction application that allows users to make predictions based on their backtesting and chart analysis. Allows user to create a following based on how accurate they are doing, and allows them to see how well they are doing with backtesting in a easy straight forward format. (Coming Live Soon)
 
 - 🌱 I’m currently learning **TypeScript, and Tailwind**
 
