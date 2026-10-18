@@ -10,15 +10,9 @@
 </p>
 <hr>
 
-- 🔭 I’m currently working on a Stock Prediction application that allows users to make predictions based on their backtesting and chart analysis. Allows user to create a following based on how accurate they are doing, and allows them to see how well they are doing with backtesting in a easy straight forward format. (Coming Live Soon)
-
-- 🌱 I’m currently learning **TypeScript, and Tailwind**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Atay365](https://github.com/Atay365)
 
 - 📫 How to reach me **derrickaustint@gmail.com**
-
-- 📄 Learn more about my career at [my Portfolio](https://derrick-a-taylor.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
